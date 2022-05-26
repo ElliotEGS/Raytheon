@@ -1,3 +1,4 @@
+#Created by Elliot Smith
 import numpy as np
 num_to_100A = np.array([1,2])
 #Used numpy to create my array as I personally prefer it to the basic python arrays for adding numbers to a list-
